@@ -3,6 +3,9 @@ App web and mobile to time the Pomodoro Technique. App created based on the **ap
 
 [Pomodoro Clock](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pomodoro-Clock.md)
 
+### Clock Design on Figma
+
+[https://www.figma.com/file/gIZsnoJK9twSD4IjZywxgE/PomoTech?node-id=0%3A1](https://www.figma.com/file/gIZsnoJK9twSD4IjZywxgE/PomoTech?node-id=0%3A1)
 ## Technologies
 
 ### Stack
@@ -12,18 +15,4 @@ App web and mobile to time the Pomodoro Technique. App created based on the **ap
 
 ### Libs
 
-- ???
-
-## Tasks
-
-### Main features
-
-- [ ]  Design screen on Figma
-- [ ]  Create the clock component
-- [ ]  Development the business rules
-
-### Bonus features
-
-- [ ]  Create the sound effect when the clock is in `00:00`
-- [ ]  Create the timer customization
-- [ ]  Create the long break feature
+- [react-countdown-circle-timer](https://www.npmjs.com/package/react-countdown-circle-timer)
